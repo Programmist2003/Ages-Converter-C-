@@ -1,0 +1,14 @@
+C:\Users\Home\OneDrive\Рабочий стол\Coverter ages\ConverterAge\bin\Debug\net8.0\ConverterAge.exe
+C:\Users\Home\OneDrive\Рабочий стол\Coverter ages\ConverterAge\bin\Debug\net8.0\ConverterAge.deps.json
+C:\Users\Home\OneDrive\Рабочий стол\Coverter ages\ConverterAge\bin\Debug\net8.0\ConverterAge.runtimeconfig.json
+C:\Users\Home\OneDrive\Рабочий стол\Coverter ages\ConverterAge\bin\Debug\net8.0\ConverterAge.dll
+C:\Users\Home\OneDrive\Рабочий стол\Coverter ages\ConverterAge\bin\Debug\net8.0\ConverterAge.pdb
+C:\Users\Home\OneDrive\Рабочий стол\Coverter ages\ConverterAge\obj\Debug\net8.0\ConverterAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Рабочий стол\Coverter ages\ConverterAge\obj\Debug\net8.0\ConverterAge.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Рабочий стол\Coverter ages\ConverterAge\obj\Debug\net8.0\ConverterAge.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Рабочий стол\Coverter ages\ConverterAge\obj\Debug\net8.0\ConverterAge.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Рабочий стол\Coverter ages\ConverterAge\obj\Debug\net8.0\ConverterAge.dll
+C:\Users\Home\OneDrive\Рабочий стол\Coverter ages\ConverterAge\obj\Debug\net8.0\refint\ConverterAge.dll
+C:\Users\Home\OneDrive\Рабочий стол\Coverter ages\ConverterAge\obj\Debug\net8.0\ConverterAge.pdb
+C:\Users\Home\OneDrive\Рабочий стол\Coverter ages\ConverterAge\obj\Debug\net8.0\ConverterAge.genruntimeconfig.cache
+C:\Users\Home\OneDrive\Рабочий стол\Coverter ages\ConverterAge\obj\Debug\net8.0\ref\ConverterAge.dll
